@@ -319,6 +319,8 @@ private SqlSessionTemplate sqlSessionTemplate;
     scanner.setAnnotationClass(this.annotationClass);
     scanner.setMarkerInterface(this.markerInterface);
     scanner.setSqlSessionFactory(this.sqlSessionFactory);
+    
+    //add for write
     scanner.setWriteSqlSessionFactory(writeSqlSessionFactory);
     
     scanner.setSqlSessionTemplate(this.sqlSessionTemplate);

@@ -66,6 +66,7 @@ public class MyFactoryBean<T> extends SqlSessionDaoSupport implements FactoryBea
   
   private SqlSession sqlSession;
   
+  //add for write
   private SqlSession writeSqlSession;
 
   private boolean externalSqlSession;

@@ -62,6 +62,7 @@ public class MyMapperScanner extends ClassPathBeanDefinitionScanner {
 
   private SqlSessionFactory sqlSessionFactory;
   
+  //add for write
   private SqlSessionFactory writeSqlSessionFactory;
 
   public SqlSessionFactory getWriteSqlSessionFactory() {
