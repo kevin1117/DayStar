@@ -21,15 +21,12 @@
 	<classpathentry kind="lib" path="lib/org.springframework.jdbc-3.1.1.RELEASE.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/org/springframework/spring-jdbc/3.1.1.RELEASE/spring-jdbc-3.1.1.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="lib/org.springframework.test-3.1.1.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/org.springframework.transaction-3.1.1.RELEASE.jar" sourcepath="C:/Documents and Settings/Administrator/.m2/repository/org/springframework/spring-tx/3.1.1.RELEASE/spring-tx-3.1.1.RELEASE-sources.jar"/>
-	<classpathentry kind="lib" path="lib/proxool-0.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/proxool-0.9.1.jar" sourcepath="d:/maven/repository/com/cloudhopper/proxool/proxool/0.9.1/proxool-0.9.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/proxool-cglib.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-api-1.1.jar"/>
-
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-
-
 	<classpathentry kind="output" path="bin"/>
 </classpath>
