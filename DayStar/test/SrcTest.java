@@ -16,6 +16,8 @@ public class SrcTest {
 		// HashMap map = new HashMap();
 		// List list = new ArrayList();
 
+		
+		
 		List<Integer> li = new ArrayList<Integer>();
 		li.add(1);
 		li.add(2);
@@ -26,10 +28,9 @@ public class SrcTest {
 			li.remove(i);
 			i--;
 		}
+		
 		System.out.println(li.size());
-		
-		
-		System.out.println(System.currentTimeMillis());
+		System.out.println("===ceshi master");
 	}
 
 }
